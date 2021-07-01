@@ -25,3 +25,6 @@ img {
   max-width: 100%;
   display: block;
 }
+.highlight {
+  color: rgba(255, 70, 2, 0.897);
+}
